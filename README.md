@@ -1,11 +1,12 @@
-Getting Started with Create React App
-Este projeto foi inicializado com Create React App.
+# Getting Started with Create React App
 
-Pré-requisitos
+Este projeto foi inicializado com **Create React App**.
+
+## Pré-requisitos
+
 Antes de começar, você precisa baixar o repositório. Você pode fazer isso executando o seguinte comando no seu terminal:
 
-bash
-Copiar código
+```bash
 git clone https://github.com/andre436/atividade-dados-industrais-SA-final.git
 Scripts Disponíveis
 No diretório do projeto, você pode executar os seguintes comandos:
@@ -43,14 +44,10 @@ Você pode aprender mais na documentação do Create React App.
 
 Para aprender React, confira a documentação do React.
 
-Seções Importantes:
+Seções Importantes
 Code Splitting
 Analisando o Tamanho do Pacote
 Fazendo um Progressive Web App
 Configuração Avançada
 Implantação
 npm run build falha em minificar
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
